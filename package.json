@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-luxon-date",
+  "version": "1.0.0",
+  "description": "simple example to demonstrate use of luxon package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jatin Patel",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^1.25.0"
+  }
+}

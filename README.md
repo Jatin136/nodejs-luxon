@@ -1,4 +1,4 @@
-# example with luxon package in nodejs
+# Example of luxon package in nodejs
 
 Simple example to convert valid Javascript dates and times as inputs to dd-MM-yyyy format using luxon wrapper.
 
